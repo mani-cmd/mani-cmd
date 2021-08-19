@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manikandan
 - 👀 I’m interested in JavaScript and front-end rn.
 - 🌱 I’m currently learning React
-- 📫 How to reach me a Front-end developer.
+
 
 <!---
 mani-cmd/mani-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
