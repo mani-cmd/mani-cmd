@@ -19,13 +19,13 @@
 <h2 align="left">Connect with me:</h2>
 <br>
 <p align="left">
-<a href="https://codepen.io/resident_pokemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="resident_pokemon" height="30" width="40" /></a>
-<a href="https://dev.to/copyninja_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="copyninja_03" height="30" width="40" /></a>
-<a href="https://twitter.com/copyninja_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="copyninja_03" height="30" width="40" /></a>
-<a href="https://instagram.com/copyninja_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="copyninja_03" height="30" width="40" /></a>
-<a href="https://hashnode.com/@copyninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@copyninja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/copyninja_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="copyninja_3" height="30" width="40" /></a>
-<a href="https://discord.gg/WAWWNSp45c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Copy Ninja#5354" height="30" width="40" /></a>
+<a target="_blank" href="https://codepen.io/resident_pokemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="resident_pokemon" height="30" width="40" /></a>
+<a target="_blank"  href="https://dev.to/copyninja_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="copyninja_03" height="30" width="40" /></a>
+<a target="_blank" href="https://twitter.com/copyninja_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="copyninja_03" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/copyninja_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="copyninja_03" height="30" width="40" /></a>
+<a target="_blank" href="https://hashnode.com/@copyninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@copyninja" height="30" width="40" /></a>
+<a target="_blank" href="https://www.leetcode.com/copyninja_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="copyninja_3" height="30" width="40" /></a>
+<a target="_blank" href="https://discord.gg/WAWWNSp45c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Copy Ninja#5354" height="30" width="40" /></a>
 </p>
 <br>
 <br>
