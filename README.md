@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer heavily addicted to UX/UI design.</h3>
 <br>
 
-<p align="left"> <a href="https://twitter.com/copyninja_03" target="blank"><img src="https://img.shields.io/twitter/follow/copyninja_03?logo=twitter&style=for-the-badge" alt="copyninja_03" /></a></p>
+<p align="left"> <a href="https://twitter.com/web_crafter" target="blank"><img src="https://img.shields.io/twitter/follow/web_crafter?logo=twitter&style=for-the-badge" alt="copyninja_03" /></a></p>
 
 - 🌱 I’m currently learning **React, Svelte, API's & backend**
 
