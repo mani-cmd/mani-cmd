@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
-<h3 align="center">A passionate frontend developer heavily addicted to UX/UI design.</h3>
+<h3 align="center">A passionate front-end developer heavily addicted to UX/UI design.</h3>
 <br>
 
-<p align="left"> <a href="https://twitter.com/webcrafter_" target="blank"><img src="https://img.shields.io/twitter/follow/webcrafter_?logo=twitter&style=for-the-badge" alt="webcrafter_" /></a></p>
-
-- 🌱 I’m currently learning **React, Svelte, API's & backend**
-
-- 👨‍💻 All of my projects are available at [https://mani-cmd.github.io](https://mani-cmd.github.io)
+- 🌱 I’m currently learning **Svelte, API's & backend**
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
