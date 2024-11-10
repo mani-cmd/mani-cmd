@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikandan</h1>
-<h3 align="center">A passionate front-end developer heavily addicted to UX/UI design.</h3>
+<h3 align="center">A passion driven Computer science student with a knack to cyber related stuff.</h3>
 <br>
 
 - 🌱 I’m currently learning **Svelte, API's & backend**
